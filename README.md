@@ -1,5 +1,5 @@
 # Cobra-Utilities-Mod
-Cobra Utilities is a mod made for cobra.gg to solve chat games like solving an equation or unscrambling a word. 
+Cobra Utilities is a mod made for the 1.8.9 Minecraft server cobra.gg to solve chat games like solving an equation or unscrambling a word. 
 
 ### TODO:
 make the mod only download knownwords.txt once. <br>
