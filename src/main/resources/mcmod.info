@@ -1,0 +1,16 @@
+[
+{
+  "modid": "CU",
+  "name": "CobraUtilities",
+  "description": "Cobra.gg Utilities.",
+  "version": "1.1",
+  "mcversion": "1.8",
+  "url": "Cobra.gg",
+  "updateUrl": "",
+  "authorList": ["Jax"],
+  "credits": "Me",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
